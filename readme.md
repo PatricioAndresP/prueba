@@ -32,3 +32,17 @@ git commit -m "feat agregar archivo readme"
 despues ejecutar git status
 
 $git status
+
+
+agregar archivo git ignore con este contenido:
+
+...
+env
+...
+
+o cualquier cosa que quieran ignorar
+
+...
+git commit -a -m "actualizar  con .gitignore y README"
+
+nota: git commit -a es como hacer un add y un commit al mismo tiempo
